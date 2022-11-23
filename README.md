@@ -1,3 +1,4 @@
 pizza base
 
-add flour
+flour
+water
